@@ -32,80 +32,80 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Default */
-.button.button-default {
+.button.button-DriveCaloiral {
 	--button-text:#ffffff;
 	--button-background:#2457F5;
 	--button-border:1px solid #ffffff;
 }
 
 /* Amazon */
-.button-amazon {
+.button.button-pd {
 	--button-text:#000000;
 	--button-background:#FFFFFF;
 	--button-border:1px solid #212121;
 }
 
 /* Amazon Music */
-.button-amazon-music {
+.button.button-ap {
 	--button-text:#000000;
 	--button-background:#25D1DA;
 }
 
 /* Apple App Store */
-.button-appstore {
+.button.button-cancioneiro {
 	--button-text:#FFFFFF;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Invites */
-.button-invites {
+.button.button-ft {
 	--button-text:#FFFFFF;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Music */
-.button-apple-music {
+.button.button-ps {
 	--button-text:#ffffff;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Music Alt */
-.button-apple-music-alt {
+.button.button-apple-music-alt {
 	--button-text:#ffffff;
 	background-image:linear-gradient(to bottom,#FB5C74,#FA233B);
 }
 
 /* Apple Podcasts */
-.button-apple-podcasts {
+.button.button-apple-podcasts {
 	--button-text:#ffffff;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Podcasts Alt */
-.button-apple-podcasts-alt {
+.button.button-apple-podcasts-alt {
 	--button-text:#ffffff;
 	background-image:linear-gradient(to bottom,#F452FF,#832BC1);
 }
 
 /* Bandcamp */
-.button-bandcamp {
+.button.button-bandcamp {
 	--button-text:#ffffff;
 	--button-background:#1d9fc3;
 }
 
 /* Behance */
-.button-behance {
+.button.button-behance {
 	--button-text:#ffffff;
 	--button-background:#0057FF;
   --button-border:1px solid #FFFFFF;
 }
 
 /* Bluesky */
-.button-bluesky {
+.button.button-bluesky {
 	--button-text:#FFFFFF;
 	--button-background:#1185FE;
 }
