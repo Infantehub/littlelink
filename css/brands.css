@@ -38,37 +38,38 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* Amazon */
+/* Spread Presencas Direcao */
 .button.button-pd {
 	--button-text:#000000;
 	--button-background:#FFFFFF;
-	--button-border:1px solid #212121;
+	--button-border:1px solid #212121;	
 }
 
-/* Amazon Music */
+/* Area Privada */
 .button.button-ap {
 	--button-text:#000000;
 	--button-background:#25D1DA;
+	--button-border:1px solid #212121;	
 }
 
-/* Apple App Store */
+/* Cancioneiro */
 .button.button-cancioneiro {
 	--button-text:#FFFFFF;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
+	--button-background:#96f1af;
+	--button-border:1px solid #262626;
 }
 
-/* Apple Invites */
+/* Forms Tesouraria */
 .button.button-ft {
-	--button-text:#FFFFFF;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
+	--button-text:#131212;
+	background-image:linear-gradient(to bottom,#FB5C74,#FA233B);
+	--button-border:1px solid #2b2929;
 }
 
-/* Apple Music */
+/* Proto Spread */
 .button.button-ps {
-	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-text:#181717;
+	background-image:linear-gradient(to bottom,#F452FF,#832BC1);
 	--button-border:1px solid #FFFFFF;
 }
 
