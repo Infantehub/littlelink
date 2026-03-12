@@ -74,9 +74,9 @@
 }
 
 /* Apple Music Alt */
-.button.button-apple-music-alt {
+.button.button-cod {
 	--button-text:#ffffff;
-	background-image:linear-gradient(to bottom,#FB5C74,#FA233B);
+	background-image:linear-gradient(to bottom,#58c3ee,#088eb3);
 }
 
 /* Apple Podcasts */
